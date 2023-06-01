@@ -1,0 +1,21 @@
+---
+title: "In-class_Ex05"
+##date: 
+date-modified:  "r Sys.Date()"
+format:
+  html:
+    code-fold: true
+    code-summary: "Show the code"
+execute: 
+  eval: true
+  echo: true
+  warning: false
+editor: visual
+---
+tbl_graph convert table into graph object
+
+once has the model from tbl_graph, use ggraph to visualise
+THE GRAPH is messy, use differnt layout to make visualiziation easy
+
+layout：
+force-directed (push nodes as far as possible, but still)

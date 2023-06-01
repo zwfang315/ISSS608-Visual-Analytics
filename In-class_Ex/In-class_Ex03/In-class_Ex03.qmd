@@ -1,0 +1,6 @@
+---
+title: "In-class Exercise 3"
+author: "FANG ZI WEI"
+date: "29 April 2023"
+edit: visual
+---
